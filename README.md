@@ -64,7 +64,7 @@ H₁: There is a relationship between the happiness index and average mean tempe
 <img width="1242" height="716" alt="imagem" src="https://github.com/user-attachments/assets/02f3c5f9-24c8-4a35-bad1-659cdfc6c39b" />
 
 
-The analysis reveals a negative association between the happiness index and average annual temperatures. Countries with a higher happiness index tend to have slightly lower average annual temperatures on average, although the relationship is weak with substantial variability.
+The analysis reveals a negative association between the happiness index and average annual temperatures. Countries with a higher happiness index tend to have lower average annual temperatures on average, although the relationship is weak with substantial variability.
 
 ## Key Variables
 * **happiness_index:** Average National Happiness Score
