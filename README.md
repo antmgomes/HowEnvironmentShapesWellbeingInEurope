@@ -11,7 +11,7 @@ H₀: There is no association between NDVI and population density.
 
 H₁: There is an association between NDVI and population density.
 
-<img width="1216" height="711" alt="imagem" src="https://github.com/user-attachments/assets/e4f4648a-80bf-4da3-8ba0-31999e362dde" />
+<img width="1242" height="715" alt="imagem" src="https://github.com/user-attachments/assets/bd4c25e2-df9c-49ae-b645-7d14aca09d9a" />
 
 
 The analysis reveals a positive association between NDVI and population density. Countries with higher NDVI tend to have higher population densities on average, although the relationship is weak and there is substantial variability.
@@ -21,7 +21,7 @@ H₀: There is no association between NDVI and average mean temperature.
 
 H₁: There is an association between NDVI and average mean temperature.
 
-<img width="1217" height="714" alt="imagem" src="https://github.com/user-attachments/assets/ad9c4c07-0738-44a2-bab5-c3b6838c122f" />
+<img width="1242" height="715" alt="imagem" src="https://github.com/user-attachments/assets/12c0c655-a747-40ce-b263-f6cd1de6787d" />
 
 
 The upward-sloping trend line indicates a positive association between NDVI and average annual mean temperature. Countries with higher NDVI tend to have higher mean temperatures on average. However, the spread of points suggests that this relationship is moderate and influenced by other factors.
@@ -77,9 +77,10 @@ The analysis reveals a negative association between the happiness index and aver
 
 ## Data:
 **Geographic Scope:** European Countries
-**Time Period:** 2015 – 2023
-**Unit of Analysis:** Country – Year
 
+**Time Period:** 2015 – 2023
+
+**Unit of Analysis:** Country – Year
 
 ## Tools Used:
 * MySQL
